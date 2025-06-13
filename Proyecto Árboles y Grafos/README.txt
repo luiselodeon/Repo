@@ -1,1 +1,1 @@
-En este folder 
+En este folder se puede ver la estructura de datos y los archivos y código para un proyecto en el que se basado en las tareas que proporcione el usuario, genera el arbol con los nodos por tarea y la ruta crítica de las tareas, proporcionando la ruta del menor tiempo donde se realizan todas las tareas. Para este proyecto se utilizó la librería de tkinter como base, en caso de querer descargar el proyecto está disponible el archivo .rar para facilidad de acceso.
