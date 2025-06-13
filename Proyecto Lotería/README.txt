@@ -1,0 +1,1 @@
+En este folder se puede ver la estructura de datos y los archivos y código para un proyecto en el que se recreó un juego de lotería, usando la librería de tkinter como base 
