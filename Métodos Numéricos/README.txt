@@ -1,1 +1,1 @@
-
+En esta carpeta están todos los métodos numéricos vistos en mi curso de Métodos Numéricos, usados comunmente para aproximar valores que resultan ser difíciles de calcular, es por eso que en este archivo de Matlab tengo los métodos empleados en mi curso en forma de plantilla para que cualquier persona lo pueda usar.
