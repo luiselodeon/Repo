@@ -1,0 +1,1 @@
+En este folder contiene los códigos básicos para un proyecto de un servidor asíncrono, en el que con 3 computadoras diferentes puedes usar las conexiones ip de cada una para poder acceder a ciertos archivos y funciones del servidor en particular
